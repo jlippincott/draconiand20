@@ -1,0 +1,9 @@
+drupal/sites/default/local_settings.php
+drupal/sites/default/files
+drupal/sites/all/modules/imagemanager/logs
+drupal/sites/all/modules/filemanager/logs
+.buildpath
+.project
+.settings
+db
+.DS_Store
